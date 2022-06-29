@@ -1,0 +1,15 @@
+ | INF | Selecting feature file "BigSmallProject" to run 
+ | INF | Selecting scenario "Add item to Add To Cart" to run 
+ | INF | Selecting scenario "Add item to Wishlist" to run 
+ | INF | Selecting scenario "Check to Delivery is Your Pincode Or Not" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | ERR | Test Step Failed | element click intercepted: Element <input type="submit" class="btn" value="submit"> is not clickable at point (631, 381). Other element would receive the click: <a href="https://pushowl.com?ref=hint-screen-branding" target="_blank">...</a>
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "BigSmallProject" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | DBG | User On Login page 
+ | DBG | User Enter Email Id 
+ | DBG | User Enter Password 
+ | DBG | User Click on SignIn Button 
+ | DBG | Go to Homepagen 
